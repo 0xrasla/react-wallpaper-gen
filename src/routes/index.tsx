@@ -17,7 +17,7 @@ function App() {
       }}
     >
       <h1>Abstract Wallpaper Generator</h1>
-      <CanvasArt width={512} height={512} />
+      <CanvasArt width={1280} height={720} />
     </div>
   );
 }
